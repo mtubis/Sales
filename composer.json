@@ -1,0 +1,19 @@
+{
+    "name": "mtubis/sales",
+    "description": "Recruitment task for the position of Symfony Developer at CreativeStyle.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mtubis\\Sales\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Magdalena Tubis",
+            "email": "magda.tubis@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
